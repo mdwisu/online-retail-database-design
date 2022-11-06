@@ -1,3 +1,9 @@
+-- ! membuat database
+
+create database online_retail
+
+use online_retail
+
 -- ! membuat tabel
 
 create table category (
